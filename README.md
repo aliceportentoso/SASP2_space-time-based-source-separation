@@ -1,6 +1,7 @@
-# Sound Analysis, Synthesis and Processing - Homework 2
+### Music and Acoustic Engineering - Politecnico di Milano 
+## Sound Analysis, Synthesis and Processing 2023 - Homework 2
 ## Space-Time-Based Source Separation
-
+<br>
 For this homework assignment, you will be exploring the topic of acoustic source separation.<br>
 You will be provided with two mixture signals 𝑦1(𝑛) and 𝑦2(𝑛), corresponding to files y1.wav and y2.wav, respectively. These signals have been acquired using with 𝑀 = 2 ideal microphones placed at 𝑑 = 9 cm from one another. Each microphone captures the mixture of 𝑁 = 3 speech signals, i.e., 𝑠1(𝑛), 𝑠2(𝑛), and 𝑠3(𝑛), having a sampling frequency of 8 kHz. 
 <br><br>
